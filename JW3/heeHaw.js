@@ -17,12 +17,12 @@ while(!valid){
 }
 
 if(valid){
-    recurse(number);
+    HeeHaw(number);
 }
 
-function recurse(number){
+function HeeHaw(number){
     if(number > 0){
-        recurse(number-1);
+        HeeHaw(number-1);
         if(number % 3 === 0 && number  % 5 === 0){
             console.log("Hee Haw!");
         }
