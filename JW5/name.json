@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "jane doe",
+      "sex": "f",
+      "born": "1879",
+      "died": "1952",
+      "father": "peter the great",
+      "mother": "jill the great"
+    },
+    {
+      "name": "jane ramirez",
+      "sex": "f",
+      "born": "1820",
+      "died": "1900",
+      "father": "bob the great",
+      "mother": "filly the great"
+    },
+    {
+      "name": "josh doe",
+      "sex": "m",
+      "born": "1900",
+      "died": "1923",
+      "father": "unknown",
+      "mother": "chasity of rhodes"
+    },
+    {
+      "name": "josh kravchuk",
+      "sex": "m",
+      "born": "1879",
+      "died": "2012",
+      "father": "yoda",
+      "mother": "unknown"
+    },
+    {
+      "name": "Hillary Clinton",
+      "sex": "f",
+      "born": "1879",
+      "died": "not yet",
+      "father": "trump",
+      "mother": "geico lizard"
+    }
+  ]
+}
